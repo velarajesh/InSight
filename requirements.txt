@@ -1,0 +1,9 @@
+Flask
+pillow
+keras
+gevent
+requests
+tensorflow
+numpy
+matplotlib
+opencv-python
